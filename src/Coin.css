@@ -1,0 +1,26 @@
+.Coin img {
+  width: 200px;
+  height: 200px;
+}
+
+.btn-roll {
+  background: linear-gradient(to right, #26d0ce, #f80759);
+  width: 180px;
+  padding: 15px 0;
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 3px;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 3px;
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+h2 {
+  color: #444;
+  padding: 1rem;
+}

@@ -1,0 +1,32 @@
+.info img {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.info {
+  width: 200px;
+  box-shadow: 10px 10px black;
+  background: white;
+  border-radius: 5%;
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.07);
+}
+
+.left-side h1 {
+  color: #26d0ce;
+}
+
+.left-side {
+  position: absolute;
+  left: 20%;
+  top: 14%;
+}
+
+.right-side {
+  position: absolute;
+  right: 20%;
+  top: 14%;
+}
+.right-side h1 {
+  color: #f80759;
+}
